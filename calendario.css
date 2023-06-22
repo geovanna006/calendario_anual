@@ -1,0 +1,57 @@
+body{
+     margin: 0;
+     font-family: arial;
+      background: #B0C4DE;
+    
+}
+
+h1{
+  background: #6495ED;
+  margin: 0;
+  color: white;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-bottom: 2px solid black;
+  text-align: center;
+
+}
+
+table{
+     border-top: 2px solid black;
+     border-left: 1px solid black;
+
+}
+
+table tr td{
+               border-bottom: 1px solid black;
+               border-right: 1px solid black;
+               padding: 10px;
+               color: black;
+
+}
+
+table thead tr td{
+                 background-color: #87CEFA;
+                 font-size: 28px;
+                 text-align: center;
+
+}
+
+
+.meses{
+	font-weight: bold;
+
+
+
+}
+
+.dias{
+      background: #DCDCDC;
+      color: white;
+      font-weight: bold;
+
+}
+
+table td{
+       
+}
